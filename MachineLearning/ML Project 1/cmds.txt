@@ -1,0 +1,9 @@
+pip3 --version
+pip3 install --upgrade pip
+pip3 install --upgrade jupyter matplotlib numpy pandas scipy scikit-learn
+python -c "import jupyter,matplotlib,numpy,pandas,scipy,sklearn"
+jupyter notebook
+
+
+UCI ML Data Site:
+https://archive-beta.ics.uci.edu/
